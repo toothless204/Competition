@@ -1,0 +1,502 @@
+[
+  {
+    "id": "RPT-036",
+    "timestamp": "2026-05-28T15:12:17",
+    "reporter": "Lukman Hakim",
+    "location": "Zone E - Laboratorium",
+    "text": "Pekerja tersengat listrik ringan dari panel distribusi 380V akibat isolasi kabel yang terkupas. Mengalami sengatan kecil, langsung dibawa ke klinik.",
+    "category": "electrical",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-004",
+    "timestamp": "2026-05-27T18:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Zone B - Gudang Bahan Baku",
+    "text": "Pekerja terpeleset di koridor utama dekat pintu masuk akibat genangan air dari sistem pendingin yang bocor. Korban mengalami memar ringan di lutut.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-037",
+    "timestamp": "2026-05-26T11:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Zone C - Workshop",
+    "text": "Konsleting pada mesin las menyebabkan percikan listrik besar. Pekerja terdekat mundur tepat waktu, tidak ada cedera namun mesin rusak.",
+    "category": "electrical",
+    "severity": "high",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-010",
+    "timestamp": "2026-05-23T13:12:17",
+    "reporter": "Lukman Hakim",
+    "location": "Zone E - Laboratorium",
+    "text": "Genangan air di area produksi lini 3 akibat saluran drainase tersumbat. Dua pekerja terpeleset namun tidak mengalami cedera.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-025",
+    "timestamp": "2026-05-21T15:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Ruang Boiler",
+    "text": "Pekerja hampir terjatuh dari tangga saat membawa peralatan berat tanpa bantuan dan tanpa menjaga tiga titik kontak dengan tangga.",
+    "category": "fall",
+    "severity": "critical",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-027",
+    "timestamp": "2026-05-21T08:12:17",
+    "reporter": "Putri Anggraini",
+    "location": "Zone E - Laboratorium",
+    "text": "Kebocoran kecil gas H2S terdeteksi di area compressor pukul 02.15 WIB. Kadar mencapai 6 ppm — di atas ambang batas aman 5 ppm. Personel dievakuasi, ventilasi darurat diaktifkan.",
+    "category": "chemical",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-050",
+    "timestamp": "2026-05-19T17:12:17",
+    "reporter": "Maya Sari",
+    "location": "Platform Ketinggian",
+    "text": "Percikan api dari pekerjaan pengelasan mengenai kardus di dekatnya dan menyebabkan kebakaran kecil. Hot work permit tidak memiliki izin clearance area yang cukup.",
+    "category": "fire",
+    "severity": "high",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-017",
+    "timestamp": "2026-05-19T13:12:17",
+    "reporter": "Lukman Hakim",
+    "location": "Zone G - Storage Kimia",
+    "text": "Pekerja hampir jatuh dari scaffolding setinggi 4 meter di area konstruksi gedung baru. Sabuk pengaman longgar dan tidak terkunci dengan benar. Tidak ada cedera.",
+    "category": "fall",
+    "severity": "medium",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-048",
+    "timestamp": "2026-05-19T05:12:17",
+    "reporter": "Lukman Hakim",
+    "location": "Zone G - Storage Kimia",
+    "text": "Kebakaran kecil terjadi di area workshop akibat korsleting listrik pada panel lampu lama. Api berhasil dipadamkan dalam 3 menit menggunakan APAR CO2. Tidak ada cedera.",
+    "category": "fire",
+    "severity": "high",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-046",
+    "timestamp": "2026-05-16T09:12:17",
+    "reporter": "Eko Wahyudi",
+    "location": "Platform Ketinggian",
+    "text": "Kardus berisi produk jadi berat terjatuh dari pallet dan mengenai kaki pekerja. Mengalami memar ringan, ditangani di klinik pabrik.",
+    "category": "mechanical",
+    "severity": "low",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-023",
+    "timestamp": "2026-05-16T04:12:17",
+    "reporter": "Kartini Rahayu",
+    "location": "Zone G - Storage Kimia",
+    "text": "Seorang pekerja hampir jatuh dari platform ketinggian 5 meter akibat tersandung kabel yang tidak tertata dengan baik di area kerja.",
+    "category": "fall",
+    "severity": "medium",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-042",
+    "timestamp": "2026-05-15T16:12:17",
+    "reporter": "Kartini Rahayu",
+    "location": "Zone C - Workshop",
+    "text": "Pekerja kebersihan menyiram lantai dengan air di dekat soket listrik yang tidak dilindungi, menyebabkan hubungan arus pendek dan memadamkan lampu area.",
+    "category": "electrical",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-044",
+    "timestamp": "2026-05-15T16:12:17",
+    "reporter": "Budi Santoso",
+    "location": "Zone F - Maintenance Area",
+    "text": "Pipa besi berdiameter 6 inci jatuh dari area penyimpanan overhead saat pengikatan longgar. Hampir mengenai pekerja yang melintas di bawah.",
+    "category": "mechanical",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-002",
+    "timestamp": "2026-05-14T15:12:17",
+    "reporter": "Eko Wahyudi",
+    "location": "Zone F - Maintenance Area",
+    "text": "Lantai gudang bahan baku basah akibat atap bocor saat hujan deras. Seorang pekerja terpeleset dan hampir menabrak rak penyimpanan. Tidak ada cedera fisik.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-047",
+    "timestamp": "2026-05-14T10:12:17",
+    "reporter": "Nanda Rizky",
+    "location": "Zone D - Loading Dock",
+    "text": "Drum berisi bahan baku berat bergeser dari pallet akibat tali pengikat putus saat pengangkatan dengan crane. Jatuh ke lantai, tidak ada cedera.",
+    "category": "mechanical",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-032",
+    "timestamp": "2026-05-11T11:12:17",
+    "reporter": "Fitri Handayani",
+    "location": "Zone H - Panel Listrik",
+    "text": "Detektor gas CO menunjukkan bacaan 28 ppm (warning level) di area forklift. Forklift diesel beroperasi di area tertutup tanpa ventilasi memadai.",
+    "category": "chemical",
+    "severity": "critical",
+    "status": "open"
+  },
+  {
+    "id": "RPT-035",
+    "timestamp": "2026-05-06T19:12:17",
+    "reporter": "Ahmad Fauzi",
+    "location": "Zone G - Storage Kimia",
+    "text": "Pekerja area treatment air terpapar klorin gas saat pengisian tangki karena katup dioperasikan terlalu cepat tanpa prosedur standar.",
+    "category": "chemical",
+    "severity": "critical",
+    "status": "open"
+  },
+  {
+    "id": "RPT-016",
+    "timestamp": "2026-05-05T14:12:17",
+    "reporter": "Opi Firmansyah",
+    "location": "Zone F - Maintenance Area",
+    "text": "Pekerja terpeleset di area dekat tangki penyimpanan akibat kondensasi yang mengendap di lantai dingin. Area segera diberi anti-slip tape.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-020",
+    "timestamp": "2026-05-05T14:12:17",
+    "reporter": "Hendra Saputra",
+    "location": "Ruang Boiler",
+    "text": "Pekerja maintenance hampir jatuh dari atap gudang saat memeriksa panel surya. Harness tidak terpasang pada anchor point yang tepat.",
+    "category": "fall",
+    "severity": "medium",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-024",
+    "timestamp": "2026-05-04T04:12:17",
+    "reporter": "Opi Firmansyah",
+    "location": "Zone G - Storage Kimia",
+    "text": "Pekerja scaffolding jatuh dari ketinggian 2 meter karena papan scaffold tiba-tiba patah. Mengalami memar pada pinggul, dibawa ke klinik.",
+    "category": "fall",
+    "severity": "high",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-008",
+    "timestamp": "2026-05-02T13:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Zone B - Gudang Bahan Baku",
+    "text": "Pekerja terpeleset di tangga menuju platform akibat jejak oli dari boot safety yang tidak dibersihkan. Berhasil berpegangan pada handrail.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-029",
+    "timestamp": "2026-05-02T05:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Zone H - Panel Listrik",
+    "text": "Kebocoran amoniak dari pipa pendingin di zona penyimpanan material. Bau menyengat terdeteksi, alarm gas berbunyi, area dievakuasi dalam 4 menit.",
+    "category": "chemical",
+    "severity": "critical",
+    "status": "open"
+  },
+  {
+    "id": "RPT-041",
+    "timestamp": "2026-05-01T02:12:17",
+    "reporter": "Opi Firmansyah",
+    "location": "Zone C - Workshop",
+    "text": "Percikan api dari sambungan kabel longgar di area produksi membakar sedikit kabel isolasi. Kebakaran kecil berhasil dipadamkan dengan APAR.",
+    "category": "electrical",
+    "severity": "high",
+    "status": "open"
+  },
+  {
+    "id": "RPT-049",
+    "timestamp": "2026-04-29T04:12:17",
+    "reporter": "Budi Santoso",
+    "location": "Ruang Boiler",
+    "text": "Bahan mudah terbakar (kain lap berminyak) yang tidak disimpan dengan benar terbakar spontan di area maintenance. Dipadamkan sebelum menyebar.",
+    "category": "fire",
+    "severity": "critical",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-045",
+    "timestamp": "2026-04-27T14:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Ruang Boiler",
+    "text": "Spare part mesin berat jatuh dari lantai 2 ke area produksi lantai 1 akibat pagar pengaman tidak terpasang. Tidak ada cedera namun kerusakan properti signifikan.",
+    "category": "mechanical",
+    "severity": "high",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-005",
+    "timestamp": "2026-04-27T09:12:17",
+    "reporter": "Ahmad Fauzi",
+    "location": "Zone E - Laboratorium",
+    "text": "Area loading dock basah karena hujan masuk dari pintu terbuka. Tiga pekerja hampir terpeleset saat memindahkan material. Tidak ada cedera serius.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-019",
+    "timestamp": "2026-04-25T07:12:17",
+    "reporter": "Hendra Saputra",
+    "location": "Zone G - Storage Kimia",
+    "text": "Railing platform di area produksi lini 2 longgar dan bergerak. Pekerja yang bersandar hampir kehilangan keseimbangan dari ketinggian 3 meter.",
+    "category": "fall",
+    "severity": "critical",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-039",
+    "timestamp": "2026-04-24T13:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Zone F - Maintenance Area",
+    "text": "Ground fault pada motor listrik conveyor menyebabkan casing tersetrum. Operator merasakan sengatan saat menyentuh bodi mesin, segera dilaporkan.",
+    "category": "electrical",
+    "severity": "high",
+    "status": "open"
+  },
+  {
+    "id": "RPT-007",
+    "timestamp": "2026-04-22T14:12:17",
+    "reporter": "Ahmad Fauzi",
+    "location": "Zone B - Gudang Bahan Baku",
+    "text": "Tumpahan cairan kimia ringan di area laboratorium menciptakan permukaan lantai licin. Insiden hampir terjadi saat pekerja berjalan cepat menuju wastafel.",
+    "category": "slip",
+    "severity": "low",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-043",
+    "timestamp": "2026-04-22T14:12:17",
+    "reporter": "Ahmad Fauzi",
+    "location": "Zone B - Gudang Bahan Baku",
+    "text": "Material berat jatuh dari rak penyimpanan 3 meter saat forklift menabrak tiang rak secara tidak sengaja. Tidak ada pekerja di zona jatuh.",
+    "category": "mechanical",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-030",
+    "timestamp": "2026-04-21T10:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Zone E - Laboratorium",
+    "text": "Pekerja laboratorium terpapar uap solvent organik (toluena) akibat lemari asam tidak berfungsi dengan baik. Sakit kepala ringan dilaporkan, pekerja dipindahkan ke area fresh air.",
+    "category": "chemical",
+    "severity": "medium",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-001",
+    "timestamp": "2026-04-19T17:12:17",
+    "reporter": "Ahmad Fauzi",
+    "location": "Zone F - Maintenance Area",
+    "text": "Pekerja terpeleset di area produksi dekat mesin press karena lantai basah akibat kebocoran coolant. Korban hampir jatuh namun berhasil berpegangan pada railing. Tidak ada cedera, namun area masih licin.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-003",
+    "timestamp": "2026-04-16T07:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Zone E - Laboratorium",
+    "text": "Tumpahan oli mesin di area workshop menyebabkan kondisi lantai sangat licin. Pekerja yang melintas hampir terjatuh. Safety officer segera memasang tanda peringatan.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-018",
+    "timestamp": "2026-04-15T04:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Area Compressor",
+    "text": "Tangga portable di area gudang tidak stabil karena kaki tangga tidak dikunci. Pekerja sempat goyah dan hampir jatuh saat mengambil material di rak atas.",
+    "category": "fall",
+    "severity": "high",
+    "status": "open"
+  },
+  {
+    "id": "RPT-014",
+    "timestamp": "2026-04-14T17:12:17",
+    "reporter": "Budi Santoso",
+    "location": "Zone F - Maintenance Area",
+    "text": "Pekerja cleaning service terpeleset saat membersihkan tumpahan di area produksi dengan mop basah tanpa memasang tanda peringatan terlebih dahulu.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-006",
+    "timestamp": "2026-04-14T08:12:17",
+    "reporter": "Nanda Rizky",
+    "location": "Zone B - Gudang Bahan Baku",
+    "text": "Lantai area compressor licin akibat kebocoran refrigerant yang bercampur air. Pekerja maintenance hampir jatuh saat melakukan pemeriksaan rutin.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-031",
+    "timestamp": "2026-04-13T21:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Zone G - Storage Kimia",
+    "text": "Tumpahan cairan kimia klorin pada pakaian pekerja saat memindahkan kontainer. APD lengkap digunakan sehingga cedera dapat dihindari.",
+    "category": "chemical",
+    "severity": "high",
+    "status": "open"
+  },
+  {
+    "id": "RPT-033",
+    "timestamp": "2026-04-13T01:12:17",
+    "reporter": "Indah Lestari",
+    "location": "Zone F - Maintenance Area",
+    "text": "Paparan debu kimia saat membuka segel drum bahan baku baru tanpa respirator. Pekerja mengalami iritasi mata dan tenggorokan, diberi pertolongan pertama.",
+    "category": "chemical",
+    "severity": "medium",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-009",
+    "timestamp": "2026-04-11T13:12:17",
+    "reporter": "Dian Pratama",
+    "location": "Zone A - Area Produksi",
+    "text": "Kondisi lantai di area boiler basah akibat kebocoran pipa steam. Supervisor segera mengevakuasi area dan memanggil tim maintenance.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-015",
+    "timestamp": "2026-04-10T14:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Zone B - Gudang Bahan Baku",
+    "text": "Kondisi lantai di area pengisian bahan kimia licin akibat cipratan cairan. Insiden hampir terjadi pada shift malam ketika pencahayaan terbatas.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-011",
+    "timestamp": "2026-04-08T18:12:17",
+    "reporter": "Opi Firmansyah",
+    "location": "Zone E - Laboratorium",
+    "text": "Pekerja terpeleset di area dekat mesin mixer akibat tumpahan bahan baku tepung yang bercampur air. Kondisi sangat licin dan berbahaya.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-022",
+    "timestamp": "2026-04-08T13:12:17",
+    "reporter": "Maya Sari",
+    "location": "Zone H - Panel Listrik",
+    "text": "Pekerja crane operator hampir tergelincir dari tangga akses kabin crane saat kondisi hujan. Genggaman tangan terasa licin karena sarung tangan basah.",
+    "category": "fall",
+    "severity": "critical",
+    "status": "open"
+  },
+  {
+    "id": "RPT-038",
+    "timestamp": "2026-04-07T16:12:17",
+    "reporter": "Eko Wahyudi",
+    "location": "Zone D - Loading Dock",
+    "text": "Kabel ekstensi yang rusak di area workshop menyebabkan bahaya tersengat listrik. Ditemukan oleh safety patrol dan segera diamankan.",
+    "category": "electrical",
+    "severity": "medium",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-013",
+    "timestamp": "2026-04-06T08:12:17",
+    "reporter": "Lukman Hakim",
+    "location": "Zone E - Laboratorium",
+    "text": "Tumpahan pelumas hidrolik di area press hydraulic menciptakan zona berbahaya. Seorang operator hampir terjatuh saat bertugas.",
+    "category": "slip",
+    "severity": "low",
+    "status": "open"
+  },
+  {
+    "id": "RPT-021",
+    "timestamp": "2026-04-06T06:12:17",
+    "reporter": "Budi Santoso",
+    "location": "Zone G - Storage Kimia",
+    "text": "Insiden hampir jatuh di tangga permanen area workshop akibat anak tangga paling atas retak dan tidak segera diperbaiki setelah dilaporkan sebelumnya.",
+    "category": "fall",
+    "severity": "high",
+    "status": "open"
+  },
+  {
+    "id": "RPT-028",
+    "timestamp": "2026-04-04T21:12:17",
+    "reporter": "Eko Wahyudi",
+    "location": "Zone F - Maintenance Area",
+    "text": "Paparan asam sulfat ringan pada tangan pekerja akibat sarung tangan yang robek di area pengisian. Luka bakar kimia ringan segera ditangani dengan air bersih di eyewash station.",
+    "category": "chemical",
+    "severity": "high",
+    "status": "resolved"
+  },
+  {
+    "id": "RPT-026",
+    "timestamp": "2026-04-02T09:12:17",
+    "reporter": "Maya Sari",
+    "location": "Zone H - Panel Listrik",
+    "text": "Insiden hampir jatuh pada malam hari di area platform luar akibat pencahayaan yang tidak memadai dan tidak ada pita reflektif pada anak tangga.",
+    "category": "fall",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-034",
+    "timestamp": "2026-04-01T21:12:17",
+    "reporter": "Joko Susilo",
+    "location": "Zone F - Maintenance Area",
+    "text": "Kebocoran pada fitting pipa transfer bahan kimia korosif. Tetesan mengenai lantai dan menciptakan gas beracun. Area segera diamankan.",
+    "category": "chemical",
+    "severity": "high",
+    "status": "open"
+  },
+  {
+    "id": "RPT-012",
+    "timestamp": "2026-03-31T12:12:17",
+    "reporter": "Citra Dewi",
+    "location": "Zone E - Laboratorium",
+    "text": "Lantai koridor menuju ruang kontrol basah akibat kebocoran sistem fire sprinkler. Tiga insiden hampir terjadi dalam waktu 30 menit.",
+    "category": "slip",
+    "severity": "medium",
+    "status": "open"
+  },
+  {
+    "id": "RPT-040",
+    "timestamp": "2026-03-31T12:12:17",
+    "reporter": "Joko Susilo",
+    "location": "Zone F - Maintenance Area",
+    "text": "Pekerja maintenance bekerja pada panel listrik tanpa prosedur lockout/tagout yang benar. Hampir terjadi kecelakaan saat rekan kerja tidak sengaja menghidupkan breaker.",
+    "category": "electrical",
+    "severity": "medium",
+    "status": "resolved"
+  }
+]
